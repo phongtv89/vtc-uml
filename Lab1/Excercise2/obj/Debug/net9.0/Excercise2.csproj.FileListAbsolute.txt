@@ -1,0 +1,14 @@
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\bin\Debug\net9.0\Excercise2.exe
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\bin\Debug\net9.0\Excercise2.deps.json
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\bin\Debug\net9.0\Excercise2.runtimeconfig.json
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\bin\Debug\net9.0\Excercise2.dll
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\bin\Debug\net9.0\Excercise2.pdb
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\obj\Debug\net9.0\Excercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\obj\Debug\net9.0\Excercise2.AssemblyInfoInputs.cache
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\obj\Debug\net9.0\Excercise2.AssemblyInfo.cs
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\obj\Debug\net9.0\Excercise2.csproj.CoreCompileInputs.cache
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\obj\Debug\net9.0\Excercise2.dll
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\obj\Debug\net9.0\refint\Excercise2.dll
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\obj\Debug\net9.0\Excercise2.pdb
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\obj\Debug\net9.0\Excercise2.genruntimeconfig.cache
+C:\Users\pt102413\source\Sample Tests\Lab1\Excercise2\obj\Debug\net9.0\ref\Excercise2.dll

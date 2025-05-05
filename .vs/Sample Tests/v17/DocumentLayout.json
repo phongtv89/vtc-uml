@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pt102413\\source\\Sample Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D42252-7D9E-41F1-A160-D010DE3C36A6}|Lab1\\Exercise2.Tests\\Exercise2.Tests.csproj|c:\\users\\pt102413\\source\\sample tests\\lab1\\exercise2.tests\\bookmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D42252-7D9E-41F1-A160-D010DE3C36A6}|Lab1\\Exercise2.Tests\\Exercise2.Tests.csproj|solutionrelative:lab1\\exercise2.tests\\bookmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703C0324-5972-F6C1-257C-C4CCBF4A1C19}|Lab1\\Excercise2\\Excercise2.csproj|c:\\users\\pt102413\\source\\sample tests\\lab1\\excercise2\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703C0324-5972-F6C1-257C-C4CCBF4A1C19}|Lab1\\Excercise2\\Excercise2.csproj|solutionrelative:lab1\\excercise2\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703C0324-5972-F6C1-257C-C4CCBF4A1C19}|Lab1\\Excercise2\\Excercise2.csproj|c:\\users\\pt102413\\source\\sample tests\\lab1\\excercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703C0324-5972-F6C1-257C-C4CCBF4A1C19}|Lab1\\Excercise2\\Excercise2.csproj|solutionrelative:lab1\\excercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\pt102413\\source\\Sample Tests\\Lab1\\Excercise2\\BookManager.cs",
+              "RelativeDocumentMoniker": "Lab1\\Excercise2\\BookManager.cs",
+              "ToolTip": "C:\\Users\\pt102413\\source\\Sample Tests\\Lab1\\Excercise2\\BookManager.cs",
+              "RelativeToolTip": "Lab1\\Excercise2\\BookManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:29:44.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pt102413\\source\\Sample Tests\\Lab1\\Excercise2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Excercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\pt102413\\source\\Sample Tests\\Lab1\\Excercise2\\Program.cs",
+              "RelativeToolTip": "Lab1\\Excercise2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:29:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\pt102413\\source\\Sample Tests\\Lab1\\Exercise2.Tests\\BookManagerTests.cs",
+              "RelativeDocumentMoniker": "Lab1\\Exercise2.Tests\\BookManagerTests.cs",
+              "ToolTip": "C:\\Users\\pt102413\\source\\Sample Tests\\Lab1\\Exercise2.Tests\\BookManagerTests.cs",
+              "RelativeToolTip": "Lab1\\Exercise2.Tests\\BookManagerTests.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:29:22.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
