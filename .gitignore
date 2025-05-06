@@ -50,6 +50,9 @@ bld/
 ## Visual Studio Code
 .vscode/
 
+# Ignore obj folder and its contents
+obj/
+
 ## Rider
 .idea/
 *.sln.iml
