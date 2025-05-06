@@ -1,5 +1,8 @@
 namespace BookManagement;
 
+/// <summary>
+/// This class handles user input and prompts for book details.
+/// </summary>
 public class UserActions
 {
     /// <summary>
