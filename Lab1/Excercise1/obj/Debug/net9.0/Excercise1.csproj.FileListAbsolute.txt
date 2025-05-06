@@ -30,3 +30,4 @@ C:\Users\pt102413\source\Sample Tests\Lab1\Excercise1\bin\Debug\net9.0\Microsoft
 C:\Users\pt102413\source\Sample Tests\Lab1\Excercise1\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\pt102413\source\Sample Tests\Lab1\Excercise1\obj\Debug\net9.0\Excercise1.csproj.AssemblyReference.cache
 C:\Users\pt102413\source\Sample Tests\Lab1\Excercise1\obj\Debug\net9.0\Excercise1.csproj.Up2Date
+c:\Users\pt102413\source\Sample Tests\Lab1\Excercise1\obj\Debug\net9.0\Excercise1.sourcelink.json
