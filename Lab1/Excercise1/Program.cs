@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+// Update file
+
+// See https://aka.ms/new-console-template for more information
 // https://claude.ai/public/artifacts/35c01647-f563-48e7-8404-393ffd0fe7f7
 Console.WriteLine("Quadratic Equation Solver");
 Console.WriteLine("Equation format: Ax^2 + Bx + C = 0");
