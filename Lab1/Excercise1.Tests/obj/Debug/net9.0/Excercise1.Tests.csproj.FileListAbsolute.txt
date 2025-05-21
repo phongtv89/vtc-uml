@@ -255,3 +255,4 @@ c:\Users\pt102413\source\Sample Tests\Lab1\Excercise1.Tests\obj\Debug\net9.0\ref
 c:\Users\pt102413\source\Sample Tests\Lab1\Excercise1.Tests\obj\Debug\net9.0\Excercise1.Tests.pdb
 c:\Users\pt102413\source\Sample Tests\Lab1\Excercise1.Tests\obj\Debug\net9.0\Excercise1.Tests.genruntimeconfig.cache
 c:\Users\pt102413\source\Sample Tests\Lab1\Excercise1.Tests\obj\Debug\net9.0\ref\Excercise1.Tests.dll
+c:\Users\pt102413\source\Sample Tests\Lab1\Excercise1.Tests\obj\Debug\net9.0\Excercise1.Tests.sourcelink.json

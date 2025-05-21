@@ -75,5 +75,17 @@ namespace BookManagement
         {
             books = fileHandler.ReadBooks();
         }
+
+        /// <summary>
+        /// Checks if a book with the specified title and author already exists in the collection.
+        /// </summary>
+        /// <param name="title"></param>
+        /// <param name="author"></param>
+        /// <returns></returns>
+        public bool DoesBookExist(string title, string author)
+        {
+            return books.Any(book => book.Title.Equals(title, StringComparison.OrdinalIgnoreCase) &&
+                                    book.Author.Equals(author, StringComparison.OrdinalIgnoreCase));
+        }
     }
 }

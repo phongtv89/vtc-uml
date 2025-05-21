@@ -74,9 +74,38 @@ public class BookManagementApp
         Console.WriteLine("\n--- Add New Book ---");
         
         var newBook = userActions.InitializeBook();
+
+        // inputdatetime
+        //
+
         
         if (!string.IsNullOrWhiteSpace(newBook.Title) && !string.IsNullOrWhiteSpace(newBook.Author))
         {
+            bool bookExists = bookManager.DoesBookExist(newBook.Title, newBook.Author);
+
+            if (bookExists)
+            {
+                Console.WriteLine("A book with the same title and author already exists. Book not added.");
+
+                Console.WriteLine("Do you want to add this book? (Y/N): ");
+                string confirmation = Console.ReadLine()?.Trim().ToLower();
+
+                if (confirmation == "Y")
+                {
+                    bookManager.AddNewBook(newBook);
+                    Console.WriteLine("Book added successfully!");
+                }
+                else
+                {
+                    Console.WriteLine("Book not added.");
+                }
+            }
+            else
+            {
+                bookManager.AddNewBook(newBook);
+                Console.WriteLine("Book added successfully!");
+            }
+
             bookManager.AddNewBook(newBook);
             Console.WriteLine("Book added successfully!");
         }

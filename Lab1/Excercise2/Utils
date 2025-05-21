@@ -1,0 +1,15 @@
+public class Helper
+{
+    public static DateTime ConvertDateTimeFromString(string input)
+    {
+        if (DateTime.ParseExact(input, "DD/MM/yyyy", CultureInfo.InvariantCulture;);
+        {
+            return date;
+        }
+        else
+        {
+            Console.WriteLine("Invalid date format. Please try again.");
+            return DateTime.MinValue; // or handle the error as needed
+        }
+    }
+}

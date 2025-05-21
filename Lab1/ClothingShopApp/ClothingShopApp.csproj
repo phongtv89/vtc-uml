@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="BL\Interfaces\ICustomerService.cs" />
+    <Compile Include="BL\Interfaces\IOrderService.cs" />
+    <Compile Include="BL\Interfaces\IProductService.cs" />
+    <Compile Include="BL\Services\CustomerService.cs" />
+    <Compile Include="BL\Services\OrderService.cs" />
+    <Compile Include="BL\Services\ProductService.cs" />
+    <Compile Include="DAL\CustomerRepository.cs" />
+    <Compile Include="DAL\DatabaseContext.cs" />
+    <Compile Include="DAL\OrderRepository.cs" />
+    <Compile Include="DAL\ProductRepository.cs" />
+    <Compile Include="DTO\Customer.cs" />
+    <Compile Include="DTO\Order.cs" />
+    <Compile Include="DTO\Product.cs" />
+    <Compile Include="UI\Program.cs" />
+    <Compile Include="UI\Menus\AccountantMenu.cs" />
+    <Compile Include="UI\Menus\MainMenu.cs" />
+    <Compile Include="UI\Menus\StaffMenu.cs" />
+    <Compile Include="UI\Utils\InputHelper.cs" />
+    <Compile Include="UI\Utils\ReportGenerator.cs" />
+  </ItemGroup>
+
+</Project>

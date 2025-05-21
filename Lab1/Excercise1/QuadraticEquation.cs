@@ -5,7 +5,7 @@ public class QuadraticEquation
     public double A { get; set; }
     public double B { get; set; }
     public double C { get; set; }
-
+     
     public double[] Resolve()
     {
         if (A == 0)
@@ -18,7 +18,7 @@ public class QuadraticEquation
         if (discriminant < 0)
         {
             // No real roots
-            return null;
+            return Array.Empty<double>();
         }
         else if (discriminant == 0)
         {
