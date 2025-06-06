@@ -30,7 +30,8 @@ namespace BookManagement
         public void AddNewBook(Book newBook)
         {
             books.Add(newBook);
-            Console.WriteLine("Book added successfully!");
+           Console.WriteLine("Book added successfully êre!");
+           
         }
 
         /// <summary>
